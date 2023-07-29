@@ -10,16 +10,13 @@
   background-image:linear-gradient(rgba(0,0,0,0) , rgba(0,0,0,0.75)), url("./assets/yannis-h-uaPaEM7MiQQ-unsplash.jpg");
   background-size: cover;
   background-position: center;
-  opacity: 0.8; /* You can adjust this value for the desired opacity (0.0 to 1.0) */
-/* } */ */
+  opacity: 0.8; 
+} */
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
 .heading-content{
   display: flex;
   justify-content: center; /* Horizontal centering */
   align-items: center; /* Vertical centering */
   height: 100vh;
+  color: brown;
 }
