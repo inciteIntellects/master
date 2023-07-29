@@ -12,9 +12,12 @@ function Home() {
           position: 'absolute',
           top: '10px',
           left: '10px',
-          width: '400px', // Set the width and height as per your requirement
+          width: '200px', // Set the width and height as per your requirement
         }}
         />
+        </div>
+        <div className='heading-content'>
+          <h1>InciteIntellects</h1>
         </div>
     </div>
   )

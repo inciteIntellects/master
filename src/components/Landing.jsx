@@ -1,14 +1,11 @@
 import React from 'react'
 import Navbar from './NavBar'
 const Landing = () => {
-  return (
-    <div>
+    return (
         <div>
-        <Navbar/>
+            <Navbar />
         </div>
-      
-    </div>
-  )
+    )
 }
 
 export default Landing
